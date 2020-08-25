@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Digital Housie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="done"> Done!!! </string>
+
+    <string name="org">Organizer</string>
+    <string name="pat">Participator</string>
+
+    <string name="invitation_title"> Family Tambola </string>
+    <string name="invitation_message"> A simple tambola game</string>
+    <string name="invitation_cta"> INSTALL </string>
+
+
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="text_term_condition"><u>Terms &amp; Conditions</u></string>
+    <string name="text_privacy_policy"><u>Privacy Policy</u></string>
+
+    <string-array name="abc">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+    <!-- Message to display while video is buffering. -->
+    <string name="buffering_string">Buffering&#8230;</string>
+
+    <!-- Message to display when video is finished playing. -->
+    <string name="toast_message">Playback completed.</string>
+
+</resources>
